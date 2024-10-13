@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\FH_Projekt.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FH_Projekt.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FH_ProjektEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\FH_Projekt">
+      <UniqueIdentifier>{702BFB98-2107-3BF6-9C2D-D8A3653F08FD}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\FH_Projekt\BTTask_ChasePlayer.cpp">
+      <Filter>Source\FH_Projekt</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FH_Projekt\BTTask_ChasePlayer.h">
+      <Filter>Source\FH_Projekt</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FH_Projekt\BTTask_FindPlayer.cpp">
+      <Filter>Source\FH_Projekt</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FH_Projekt\BTTask_FindPlayer.h">
+      <Filter>Source\FH_Projekt</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FH_Projekt\Enemy.cpp">
+      <Filter>Source\FH_Projekt</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FH_Projekt\Enemy.h">
+      <Filter>Source\FH_Projekt</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FH_Projekt\EnemyKeyss.cpp">
+      <Filter>Source\FH_Projekt</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FH_Projekt\EnemyKeyss.h">
+      <Filter>Source\FH_Projekt</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FH_Projekt\Enemy_Controller.cpp">
+      <Filter>Source\FH_Projekt</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FH_Projekt\Enemy_Controller.h">
+      <Filter>Source\FH_Projekt</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\FH_Projekt\FH_Projekt.Build.cs">
+      <Filter>Source\FH_Projekt</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\FH_Projekt\FH_Projekt.cpp">
+      <Filter>Source\FH_Projekt</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FH_Projekt\FH_Projekt.h">
+      <Filter>Source\FH_Projekt</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FH_Projekt\FH_ProjektCharacter.cpp">
+      <Filter>Source\FH_Projekt</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FH_Projekt\FH_ProjektCharacter.h">
+      <Filter>Source\FH_Projekt</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FH_Projekt\FH_ProjektGameMode.cpp">
+      <Filter>Source\FH_Projekt</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FH_Projekt\FH_ProjektGameMode.h">
+      <Filter>Source\FH_Projekt</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FH_Projekt\FH_ProjektPlayerController.cpp">
+      <Filter>Source\FH_Projekt</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FH_Projekt\FH_ProjektPlayerController.h">
+      <Filter>Source\FH_Projekt</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FH_Projekt\FH_ProjektProjectile.cpp">
+      <Filter>Source\FH_Projekt</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FH_Projekt\FH_ProjektProjectile.h">
+      <Filter>Source\FH_Projekt</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FH_Projekt\TP_PickUpComponent.cpp">
+      <Filter>Source\FH_Projekt</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FH_Projekt\TP_PickUpComponent.h">
+      <Filter>Source\FH_Projekt</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FH_Projekt\TP_WeaponComponent.cpp">
+      <Filter>Source\FH_Projekt</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FH_Projekt\TP_WeaponComponent.h">
+      <Filter>Source\FH_Projekt</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FH_Projekt\Weapon.cpp">
+      <Filter>Source\FH_Projekt</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FH_Projekt\Weapon.h">
+      <Filter>Source\FH_Projekt</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

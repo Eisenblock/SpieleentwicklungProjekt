@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\paulk\\onedrive\\dokumente\\unreal projects\\fh_projekt\\intermediate\\build\\win64\\unrealeditor\\inc\\fh_projekt\\uht\\fh_projektprojectile.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\paulk\\onedrive\\dokumente\\unreal projects\\fh_projekt\\intermediate\\build\\win64\\x64\\fh_projekteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\paulk\\onedrive\\dokumente\\unreal projects\\fh_projekt\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fh_projekt\\definitions.fh_projekt.h",
+            "c:\\users\\paulk\\onedrive\\dokumente\\unreal projects\\fh_projekt\\source\\fh_projekt\\fh_projektprojectile.h",
+            "c:\\users\\paulk\\onedrive\\dokumente\\unreal projects\\fh_projekt\\intermediate\\build\\win64\\unrealeditor\\inc\\fh_projekt\\uht\\fh_projektprojectile.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

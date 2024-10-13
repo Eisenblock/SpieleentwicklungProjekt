@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\paulk\\onedrive\\dokumente\\unreal projects\\fh_projekt\\intermediate\\build\\win64\\unrealeditor\\inc\\fh_projekt\\uht\\fh_projekt.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\paulk\\onedrive\\dokumente\\unreal projects\\fh_projekt\\intermediate\\build\\win64\\x64\\fh_projekteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\paulk\\onedrive\\dokumente\\unreal projects\\fh_projekt\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fh_projekt\\definitions.fh_projekt.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
